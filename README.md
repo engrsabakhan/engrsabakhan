@@ -1,10 +1,13 @@
 I am a Software Engineer specializing in Artificial Intelligence and Machine Learning, with hands-on experience in developing practical, real-world AI and ML solutions. I am passionate about leveraging data-driven approaches to solve complex problems and focus on areas including Machine Learning, Deep Learning, Artificial Intelligence, and Data Science. I actively work on projects that deliver impactful, real-world applications while continuously expanding my knowledge and skills in the field.
 
 ## 🛠️ Tech Stack & Skills
+### Programming Languages
 
-
-![WhatsApp Image 2025-12-20 at 21 28 19](https://github.com/user-attachments/assets/fac7257f-cceb-4c6f-b4ed-2c33b9da398e)
-
+🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+💻 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+🌐 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+🎨 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+🟨 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
