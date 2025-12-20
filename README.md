@@ -1,16 +1,41 @@
 I am a Software Engineer specializing in Artificial Intelligence and Machine Learning, with hands-on experience in developing practical, real-world AI and ML solutions. I am passionate about leveraging data-driven approaches to solve complex problems and focus on areas including Machine Learning, Deep Learning, Artificial Intelligence, and Data Science. I actively work on projects that deliver impactful, real-world applications while continuously expanding my knowledge and skills in the field.
 
 ## 🛠️ Tech Stack & Skills
-## Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### Programming
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ML & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### Machine Learning & AI
+![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBOOST](https://img.shields.io/badge/XGBOOST-3776AB?style=for-the-badge&logo=xgboost&logoColor=white)
+![LIGHTGBM](https://img.shields.io/badge/LIGHTGBM-792A90?style=for-the-badge)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Deep Learning & NLP
+BERT, DeBERTa, CNNs, RNNs
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)
+![DeBERTa](https://img.shields.io/badge/DeBERTa-000000?style=for-the-badge)
+![CNNs](https://img.shields.io/badge/CNNs-00599C?style=for-the-badge)
+![RNNs](https://img.shields.io/badge/RNNs-FF6F00?style=for-the-badge)
+
+### LLMs & GenAI
+LangChain, Ollama, Groq API
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Groq API](https://img.shields.io/badge/Groq_API-00A67E?style=for-the-badge)
+
+### Data & Computer Vision
+![PANDAS](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NUMPY](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
+![SEABORN](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge)
+![OPENCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Web, APIs & Deployment
+![FASTAPI](https://img.shields.io/badge/FASTAPI
