@@ -1,7 +1,7 @@
 I am a Software Engineer specializing in Artificial Intelligence and Machine Learning, with hands-on experience in developing practical, real-world AI and ML solutions. I am passionate about leveraging data-driven approaches to solve complex problems and focus on areas including Machine Learning, Deep Learning, Artificial Intelligence, and Data Science. I actively work on projects that deliver impactful, real-world applications while continuously expanding my knowledge and skills in the field.
----
+
 ## 🛠️ Tech Stack & Skills
----
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
