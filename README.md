@@ -43,6 +43,39 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0E3441?style=for-the-badge&logo=streamlit&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=red)
+🔹 Automated Essay Scoring 2.0
 
+Problem: Manually checking student essays takes a lot of time and can be biased.
+Approach & Technologies: Built an AI system using Python and NLP models to automatically score essays. Used text preprocessing, transformer models, and supervised learning.
+Outcome: Created an end-to-end essay scoring system that reduces manual grading effort.
+🔗 GitHub: https://github.com/engrsabakhan/Automated-Essay-Scoring-2.0
+
+🔹 RAG Chatbot
+
+Problem: Normal chatbots give general answers and do not use stored data.
+Approach & Technologies: Built a Retrieval-Augmented Generation (RAG) chatbot using Python and LLMs that first searches documents and then answers questions.
+Outcome: The chatbot gives more accurate and relevant answers based on documents.
+🔗 GitHub: https://github.com/engrsabakhan/Rag-Chatbot
+
+🔹 AI-Powered Cold Email Generator (Job & Client Outreach)
+
+Problem: Writing cold emails for jobs or clients is slow and repetitive.
+Approach & Technologies: Used AI and LLMs to generate personalized emails by analyzing job descriptions and user details.
+Outcome: Saves time and helps send professional, customized emails.
+🔗 GitHub: https://github.com/engrsabakhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach
+
+🔹 AI Image App
+
+Problem: Creating AI images is difficult for non-technical users.
+Approach & Technologies: Built a Streamlit web app using Hugging Face image generation models to create images from text prompts.
+Outcome: Users can easily generate and download AI images through a simple interface.
+🔗 GitHub: https://github.com/engrsabakhan/ai_image_app
+
+🔹 Child Mind Institute – Problematic Internet Use
+
+Problem: Excessive internet use can negatively affect children’s mental health.
+Approach & Technologies: Analyzed data using Python to study patterns of problematic internet usage.
+Outcome: Provided useful insights into internet behavior and its impact on children.
+🔗 GitHub: https://github.com/engrsabakhan/Child-Mind-Institute-Problematic-Internet--used
 
 
