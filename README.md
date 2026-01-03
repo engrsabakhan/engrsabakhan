@@ -56,10 +56,9 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 🔗 GitHub: https://github.com/engrsabakhan/Automated-Essay-Scoring-2.0
 
 🔹<b> RAG Chatbot</b>
-
-Problem: Normal chatbots give general answers and do not use stored data.
-Approach & Technologies: Built a Retrieval-Augmented Generation (RAG) chatbot using Python and LLMs that first searches documents and then answers questions.
-Outcome: The chatbot gives more accurate and relevant answers based on documents.
+<b>Problem:</b> Normal chatbots give general answers and do not use stored data.
+<b>Approach & Technologies:</b> Built a Retrieval-Augmented Generation (RAG) chatbot using Python and LLMs that first searches documents and then answers questions.
+<b>Outcome:</b>The chatbot gives more accurate and relevant answers based on documents.
 <br>
 🔗 GitHub: https://github.com/engrsabakhan/Rag-Chatbot
 
