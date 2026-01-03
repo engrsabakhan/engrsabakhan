@@ -43,6 +43,9 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0E3441?style=for-the-badge&logo=streamlit&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=red)
+<br>
+***
+<b>Projects</b>
 🔹 Automated Essay Scoring 2.0
 
 Problem: Manually checking student essays takes a lot of time and can be biased.
@@ -77,5 +80,6 @@ Problem: Excessive internet use can negatively affect children’s mental health
 Approach & Technologies: Analyzed data using Python to study patterns of problematic internet usage.
 Outcome: Provided useful insights into internet behavior and its impact on children.
 🔗 GitHub: https://github.com/engrsabakhan/Child-Mind-Institute-Problematic-Internet--used
+***
 
 
