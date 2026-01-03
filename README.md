@@ -16,9 +16,9 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 
 ### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-150458?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0E3441?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-5C3EE8?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-150458?style=for-the-badge&logo=tensorflow&logoColor=red)
 ![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-00599C?style=for-the-badge)
 
