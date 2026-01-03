@@ -75,7 +75,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 🔹 <b>Child Mind Institute – Problematic Internet Use</b><br>
 <b>Problem:</b> Excessive internet use can negatively affect children’s mental health.<br>
-<b>Approach & Technologies:</br> Analyzed data using Python to study patterns of problematic internet usage.<br>
+<b>Approach & Technologies:</b> Analyzed data using Python to study patterns of problematic internet usage.<br>
 <b>Outcome:</b> Provided useful insights into internet behavior and its impact on children.<br>
 🔗 GitHub: https://github.com/engrsabakhan/Child-Mind-Institute-Problematic-Internet--used
 ***
