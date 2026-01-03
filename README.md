@@ -63,18 +63,20 @@ Outcome: The chatbot gives more accurate and relevant answers based on documents
 <br>
 🔗 GitHub: https://github.com/engrsabakhan/Rag-Chatbot
 
-🔹 <b>AI-Powered Cold Email Generator (Job & Client Outreach)<b>
+🔹 <b>AI-Powered Cold Email Generator (Job & Client Outreach)</b>
 
 Problem: Writing cold emails for jobs or clients is slow and repetitive.
 Approach & Technologies: Used AI and LLMs to generate personalized emails by analyzing job descriptions and user details.
 Outcome: Saves time and helps send professional, customized emails.
 🔗 GitHub: https://github.com/engrsabakhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach
+</b>
 
 🔹<b> AI Image App</b>
 
 Problem: Creating AI images is difficult for non-technical users.
 Approach & Technologies: Built a Streamlit web app using Hugging Face image generation models to create images from text prompts.
 Outcome: Users can easily generate and download AI images through a simple interface.
+
 <br>
 🔗 GitHub: https://github.com/engrsabakhan/ai_image_app
 
