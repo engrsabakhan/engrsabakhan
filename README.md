@@ -45,13 +45,14 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=red)
 <br>
 ***
-##Projects
+###Projects
 <br>
 🔹<b> Automated Essay Scoring 2.0</b>
 
 Problem: Manually checking student essays takes a lot of time and can be biased.
 Approach & Technologies: Built an AI system using Python and NLP models to automatically score essays. Used text preprocessing, transformer models, and supervised learning.
 Outcome: Created an end-to-end essay scoring system that reduces manual grading effort.
+<br>
 🔗 GitHub: https://github.com/engrsabakhan/Automated-Essay-Scoring-2.0
 
 🔹 RAG Chatbot
