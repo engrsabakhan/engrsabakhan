@@ -49,9 +49,9 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 <br>
 🔹<b> Automated Essay Scoring 2.0</b>
 
-Problem: Manually checking student essays takes a lot of time and can be biased.
-Approach & Technologies: Built an AI system using Python and NLP models to automatically score essays. Used text preprocessing, transformer models, and supervised learning.
-Outcome: Created an end-to-end essay scoring system that reduces manual grading effort.
+<b>Problem:</b> Manually checking student essays takes a lot of time and can be biased.</br>
+<b>Approach & Technologies:</b> Built an AI system using Python and NLP models to automatically score essays. Used text preprocessing, transformer models, and supervised learning.</br>
+<b>Outcome:</b> Created an end-to-end essay scoring system that reduces manual grading effort.
 <br>
 🔗 GitHub: https://github.com/engrsabakhan/Automated-Essay-Scoring-2.0
 
