@@ -55,32 +55,35 @@ Outcome: Created an end-to-end essay scoring system that reduces manual grading 
 <br>
 🔗 GitHub: https://github.com/engrsabakhan/Automated-Essay-Scoring-2.0
 
-🔹 RAG Chatbot
+🔹<b> RAG Chatbot</b>
 
 Problem: Normal chatbots give general answers and do not use stored data.
 Approach & Technologies: Built a Retrieval-Augmented Generation (RAG) chatbot using Python and LLMs that first searches documents and then answers questions.
 Outcome: The chatbot gives more accurate and relevant answers based on documents.
+<br>
 🔗 GitHub: https://github.com/engrsabakhan/Rag-Chatbot
 
-🔹 AI-Powered Cold Email Generator (Job & Client Outreach)
+🔹 <b>AI-Powered Cold Email Generator (Job & Client Outreach)<b>
 
 Problem: Writing cold emails for jobs or clients is slow and repetitive.
 Approach & Technologies: Used AI and LLMs to generate personalized emails by analyzing job descriptions and user details.
 Outcome: Saves time and helps send professional, customized emails.
 🔗 GitHub: https://github.com/engrsabakhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach
 
-🔹 AI Image App
+🔹<b> AI Image App</b>
 
 Problem: Creating AI images is difficult for non-technical users.
 Approach & Technologies: Built a Streamlit web app using Hugging Face image generation models to create images from text prompts.
 Outcome: Users can easily generate and download AI images through a simple interface.
+<br>
 🔗 GitHub: https://github.com/engrsabakhan/ai_image_app
 
-🔹 Child Mind Institute – Problematic Internet Use
+🔹 <b>Child Mind Institute – Problematic Internet Use</b>
 
 Problem: Excessive internet use can negatively affect children’s mental health.
 Approach & Technologies: Analyzed data using Python to study patterns of problematic internet usage.
 Outcome: Provided useful insights into internet behavior and its impact on children.
+<br>
 🔗 GitHub: https://github.com/engrsabakhan/Child-Mind-Institute-Problematic-Internet--used
 ***
 
