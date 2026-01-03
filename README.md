@@ -67,13 +67,10 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 <b>Outcome:</b>Saves time and helps send professional, customized emails.<br>
 🔗 GitHub: https://github.com/engrsabakhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach
 
-🔹<b> AI Image App</b>
-
-Problem: Creating AI images is difficult for non-technical users.
-Approach & Technologies: Built a Streamlit web app using Hugging Face image generation models to create images from text prompts.
-Outcome: Users can easily generate and download AI images through a simple interface.
-
-<br>
+🔹<b> AI Image App</b><br>
+<b>Problem:</b> Creating AI images is difficult for non-technical users.<br>
+<b>Approach & Technologies:</b> Built a Streamlit web app using Hugging Face image generation models to create images from text prompts.<br>
+<b>Outcome:</b> Users can easily generate and download AI images through a simple interface.<br>
 🔗 GitHub: https://github.com/engrsabakhan/ai_image_app
 
 🔹 <b>Child Mind Institute – Problematic Internet Use</b>
