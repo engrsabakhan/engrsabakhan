@@ -45,7 +45,8 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=red)
 <br>
 ***
-<b>Projects</b>
+<b>##Projects</b>
+<br>
 🔹 Automated Essay Scoring 2.0
 
 Problem: Manually checking student essays takes a lot of time and can be biased.
