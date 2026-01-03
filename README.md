@@ -62,10 +62,9 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 🔗 GitHub: https://github.com/engrsabakhan/Rag-Chatbot
 
 🔹 <b>AI-Powered Cold Email Generator (Job & Client Outreach)</b><br>
-
 <b>Problem:</b> Writing cold emails for jobs or clients is slow and repetitive.<br>
 <b>Approach & Technologies:</b> Used AI and LLMs to generate personalized emails by analyzing job descriptions and user details.<br>
-<b>Outcome:<b>Saves time and helps send professional, customized emails.<br>
+<b>Outcome:</b>Saves time and helps send professional, customized emails.<br>
 🔗 GitHub: https://github.com/engrsabakhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach
 
 🔹<b> AI Image App</b>
