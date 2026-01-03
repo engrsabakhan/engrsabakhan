@@ -59,16 +59,14 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 <b>Problem:</b> Normal chatbots give general answers and do not use stored data.<br>
 <b>Approach & Technologies:</b> Built a Retrieval-Augmented Generation (RAG) chatbot using Python and LLMs that first searches documents and then answers questions.<br>
 <b>Outcome:</b>The chatbot gives more accurate and relevant answers based on documents.<br>
-<br>
 🔗 GitHub: https://github.com/engrsabakhan/Rag-Chatbot
 
-🔹 <b>AI-Powered Cold Email Generator (Job & Client Outreach)</b>
+🔹 <b>AI-Powered Cold Email Generator (Job & Client Outreach)</b><br>
 
-Problem: Writing cold emails for jobs or clients is slow and repetitive.
-Approach & Technologies: Used AI and LLMs to generate personalized emails by analyzing job descriptions and user details.
-Outcome: Saves time and helps send professional, customized emails.
+<b>Problem:</b> Writing cold emails for jobs or clients is slow and repetitive.<br>
+<b>Approach & Technologies:</b> Used AI and LLMs to generate personalized emails by analyzing job descriptions and user details.<br>
+<b>Outcome:<b>Saves time and helps send professional, customized emails.<br>
 🔗 GitHub: https://github.com/engrsabakhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach
-</b>
 
 🔹<b> AI Image App</b>
 
