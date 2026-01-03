@@ -73,12 +73,10 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 <b>Outcome:</b> Users can easily generate and download AI images through a simple interface.<br>
 🔗 GitHub: https://github.com/engrsabakhan/ai_image_app
 
-🔹 <b>Child Mind Institute – Problematic Internet Use</b>
-
-Problem: Excessive internet use can negatively affect children’s mental health.
-Approach & Technologies: Analyzed data using Python to study patterns of problematic internet usage.
-Outcome: Provided useful insights into internet behavior and its impact on children.
-<br>
+🔹 <b>Child Mind Institute – Problematic Internet Use</b><br>
+<b>Problem:</b> Excessive internet use can negatively affect children’s mental health.<br>
+<b>Approach & Technologies:</br> Analyzed data using Python to study patterns of problematic internet usage.<br>
+<b>Outcome:</b> Provided useful insights into internet behavior and its impact on children.<br>
 🔗 GitHub: https://github.com/engrsabakhan/Child-Mind-Institute-Problematic-Internet--used
 ***
 
