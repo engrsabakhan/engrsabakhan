@@ -165,10 +165,6 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 <br>
 
-![Paid Research](https://img.shields.io/badge/Paid-Research%20Work-green?style=for-the-badge)
-
-<br>
-
 ### 🔹 Hybrid Blockchain–AI Framework for Real-Time Semantic Data Integrity and Access Control in 6G-Enabled IoT Networks  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Focus Area:** Blockchain, Artificial Intelligence, IoT, 6G Networks  
