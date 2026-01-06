@@ -52,6 +52,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 ### Projects
 <br>
+
 🔹<b> Automated Essay Scoring 2.0</b>
 
 <b>Problem:</b> Manually checking student essays takes a lot of time and can be biased.</br>
@@ -215,7 +216,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Active contributor on **Kaggle**, participating in competitions across **ML, NLP, medical imaging, and audio classification**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Continuously learning and refining skills in **data science, AI, and real-world ML applications**.  
 ***
-## 📬 Contact & Links
+### 📬 Contact & Links
 
 <br>
 
