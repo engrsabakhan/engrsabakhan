@@ -51,7 +51,9 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 ***
 
 ### Projects
+
 <br>
+
 
 🔹<b> Automated Essay Scoring 2.0</b>
 
