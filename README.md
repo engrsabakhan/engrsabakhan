@@ -83,7 +83,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 🤖 Machine Learning Internship<br>
 
 <div style="margin-left:40px">🔹 Role: Machine Learning Intern
-<div>
+</div>
 <b>✨ Highlights:</b><br>
 
 🧠 Designed complete ML workflows covering preprocessing, feature engineering, training, and evaluation.
