@@ -120,7 +120,12 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 </p>
 
 <br>
+### 🧬 CZII – CryoET Object Identification: Advancing 3D Protein Complex Annotation *(Team of 2)*
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Research Area:** Computer Vision, Medical Imaging  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Methods:** YOLO-based Deep Learning, 3D Tomographic Analysis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Status:** Academic Research Paper  
+<br>
 ### 🧪 Meta-Analysis of Machine Learning Methods for Fruit Quality Prediction *(Team of 4)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Research Area:** Computer Vision, Machine Learning  
@@ -128,20 +133,18 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Status:** Published  
 
 <br>
+### ❤️ Digital Twin Modeling of ECG Signals Using the PTB-XL Dataset *(Team of 3)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Research Area:** Digital Twin Technology, Biomedical Signal Processing  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Methods:** Sparse Identification of Nonlinear Dynamics (SINDy), Physics-Informed Neural Networks (PINN)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Status:** Draft Academic Research  
+<br>
 
 ### 🧠 Leveraging AI to Predict Problematic Internet Use in Children and Adolescents *(Team of 3)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Research Area:** Artificial Intelligence, Healthcare Analytics  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Methods:** CatBoost, XGBoost, LightGBM, Ensemble Learning  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Status:** Final Academic Research Manuscript (Unpublished) — IEEE Format  
-
-<br>
-
-### ❤️ Digital Twin Modeling of ECG Signals Using the PTB-XL Dataset *(Team of 3)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Research Area:** Digital Twin Technology, Biomedical Signal Processing  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Methods:** Sparse Identification of Nonlinear Dynamics (SINDy), Physics-Informed Neural Networks (PINN)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Status:** Draft Academic Research  
 
 <br>
 
@@ -153,10 +156,5 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 <br>
 
-### 🧬 CZII – CryoET Object Identification: Advancing 3D Protein Complex Annotation *(Team of 2)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Research Area:** Computer Vision, Medical Imaging  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Methods:** YOLO-based Deep Learning, 3D Tomographic Analysis  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Status:** Academic Research Paper  
 
 
