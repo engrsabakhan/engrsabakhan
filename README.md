@@ -82,7 +82,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 ### 💼 Professional Experience & Internships
 
 <br>
-🤖<b> Machine Learning Internship</b><br>
+🤖<b> Machine Learning Internship</b>(June 2025 – August 2025 )<br>
 
 🔹 Role: Machine Learning Intern
 
