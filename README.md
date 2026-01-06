@@ -79,30 +79,22 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 <b>Outcome:</b> Provided useful insights into internet behavior and its impact on children.<br>
 🔗 GitHub: https://github.com/engrsabakhan/Child-Mind-Institute-Problematic-Internet--used
 ***
-## Internships
-![Machine Learning Internship](https://img.shields.io/badge/Machine%20Learning-Internship-blue)
+### 💼 Professional Experience & Internships
+🤖 Machine Learning Internship
 
-**Role:** ML Intern  
-**Organization:** Ezitech Institute Rawalpindi
+Ezitech Institute, Rawalpindi
+Position: Machine Learning Intern
+Period: June 2025 – August 2025
 
-**Duration:** June 2025 – August 2025  
+During this internship, I worked on applied machine learning projects with a strong focus on building scalable and reliable solutions. My work included:
 
-**Responsibilities / Achievements:**  
-- Designed and implemented **end-to-end ML pipelines** for data preprocessing, feature engineering, model training, and evaluation.  
-- Developed an **essay scoring system** using Python, TensorFlow, Scikit-learn, Groq, and Streamlit, improving automated evaluation accuracy.  
-- Built, fine-tuned, and validated machine learning models for real-world applications.  
-- Prepared detailed reports and presented results to the supervising team, ensuring reproducibility and robustness of models.  
+Creating complete machine learning workflows, covering data preparation, feature selection, model development, and performance evaluation.
 
-![Web Development Internship](https://img.shields.io/badge/Web%20Development-Internship-purple)
+Implementing an automated essay evaluation system, leveraging Python-based ML libraries, deep learning frameworks, and interactive deployment tools.
 
-**Role:** Web Developer Intern  
-**Organization:** EzeeSol Technology Rawalpindi
+Training and optimizing models to address real-world problems with measurable improvements in prediction quality.
 
-**Duration:** [June 2024 – August 2024]  
-
-**Responsibilities / Achievements:**  
-- Assisted in front-end and back-end development for web applications.  
-- Gained experience in [e.g., HTML, CSS, JavaScript, PHP].  
+Documenting experiments and communicating insights clearly to mentors to ensure transparency and reproducibility.
 
 
 
