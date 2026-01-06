@@ -80,22 +80,31 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 🔗 GitHub: https://github.com/engrsabakhan/Child-Mind-Institute-Problematic-Internet--used
 ***
 ### 💼 Professional Experience & Internships
-🤖 Machine Learning Internship
+🤖 Machine Learning Internship<br>
 
-Ezitech Institute, Rawalpindi
-Position: Machine Learning Intern
-Period: June 2025 – August 2025
+    🔹 Role: Machine Learning Intern
 
-During this internship, I worked on applied machine learning projects with a strong focus on building scalable and reliable solutions. My work included:
+<b>✨ Highlights:</b><br>
 
-Creating complete machine learning workflows, covering data preparation, feature selection, model development, and performance evaluation.
+🧠 Designed complete ML workflows covering preprocessing, feature engineering, training, and evaluation.
 
-Implementing an automated essay evaluation system, leveraging Python-based ML libraries, deep learning frameworks, and interactive deployment tools.
+📝 Built an AI-powered essay scoring system using Python, TensorFlow, Scikit-learn, Groq, and Streamlit.
 
-Training and optimizing models to address real-world problems with measurable improvements in prediction quality.
+⚙️ Optimized and validated models for real-world deployment.
 
-Documenting experiments and communicating insights clearly to mentors to ensure transparency and reproducibility.
+📊 Prepared technical documentation and shared findings with mentors for transparent experimentation.
 
+🌐 Web Development Internship
+
+🔹 Role: Web Developer Intern
+
+<b>✨ Highlights:</b><br>
+
+💻 Assisted in front-end and back-end development of production-level web applications.<br>
+
+🎨 Improved user interfaces and application flow through collaborative development.<br>
+
+🛠️ Strengthened practical skills in HTML, CSS, JavaScript, and PHP.<br>
 
 
 
