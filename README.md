@@ -158,6 +158,35 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Status:** Academic Research Paper  
 
 <br>
+
 ***
+
+## 💰 Paid Research Work  
+
+<br>
+
+![Paid Research](https://img.shields.io/badge/Paid-Research%20Work-green?style=for-the-badge)
+
+<br>
+
+### 🔹 Hybrid Blockchain–AI Framework for Real-Time Semantic Data Integrity and Access Control in 6G-Enabled IoT Networks  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Focus Area:** Blockchain, Artificial Intelligence, IoT, 6G Networks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Objective:** Ensuring **real-time semantic data integrity** and secure access control using a hybrid Blockchain-AI architecture.  
+
+<br>
+
+### 🔹 AI-Based Electricity Billing Forecasting and Consumer Classification Using Behavioral Markers  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Focus Area:** Energy Analytics, Artificial Intelligence, Behavioral Data  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Objective:** Predict electricity consumption patterns and classify consumers based on **behavioral indicators** to optimize billing.  
+
+<br>
+
+### 🔹 Artificial Intelligence-Based Patient Triage System (PTS) in Healthcare Using Natural Language Processing  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Focus Area:** Healthcare AI, NLP, Patient Management  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Objective:** Develop an **AI-driven triage system** to streamline patient prioritization and improve healthcare response efficiency.  
+
 
 
