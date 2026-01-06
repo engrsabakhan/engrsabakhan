@@ -98,7 +98,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 <br>
 
-🌐<b> Web Development Internship<b>
+🌐<b> Web Development Internship</b>
 
 🔹 Role: Web Developer Intern
 
