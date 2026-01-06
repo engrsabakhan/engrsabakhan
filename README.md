@@ -184,5 +184,32 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Focus Area:** Healthcare AI, NLP, Patient Management  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Objective:** Develop an **AI-driven triage system** to streamline patient prioritization and improve healthcare response efficiency.  
 
+***
+## 🏆 Competitions & Professional Highlights
+
+<br>
+
+### 📊 Kaggle Competitions
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**CZII – CryoET Object Identification:** Ranked **536 / 931**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ISIC 2024 – Skin Cancer Detection with 3D-TBP:** Ranked **2597 / 2739**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BirdCLEF 2024:** Ranked **333 / 974**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Learning Agency Lab – Automated Essay Scoring 2.0:** Ranked **2137 / 2706**  
+
+<br>
+
+### 🎓 Internship Certifications
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Machine Learning Intern** – Ezitech Institute  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Web Development Intern** – EzeeSol Technologies  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Machine Learning & Data Science Intern (Demo Training Program)** – Edureka  
+
+<br>
+
+### 💼 Professional Development & Profile
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Active contributor on **Kaggle**, participating in competitions across **ML, NLP, medical imaging, and audio classification**.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Continuously learning and refining skills in **data science, AI, and real-world ML applications**.  
+***
 
 
