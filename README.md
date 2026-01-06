@@ -80,7 +80,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 🔗 GitHub: https://github.com/engrsabakhan/Child-Mind-Institute-Problematic-Internet--used
 ***
 ### 💼 Professional Experience & Internships
-🤖 Machine Learning Internship<br>
+🤖<b> Machine Learning Internship</b><br>
 
 🔹 Role: Machine Learning Intern
 
@@ -94,9 +94,9 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 📊 Prepared technical documentation and shared findings with mentors for transparent experimentation.
 
-🌐 Web Development Internship
+🌐<b> Web Development Internship<b>
 
-    🔹 Role: Web Developer Intern
+🔹 Role: Web Developer Intern
 
 <b>✨ Highlights:</b><br>
 
