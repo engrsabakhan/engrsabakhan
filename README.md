@@ -121,6 +121,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 </p>
 
 <br>
+
 ### 🧬 CZII – CryoET Object Identification: Advancing 3D Protein Complex Annotation *(Team of 2)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Research Area:** Computer Vision, Medical Imaging  
@@ -134,6 +135,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Status:** Published  
 
 <br>
+
 ### ❤️ Digital Twin Modeling of ECG Signals Using the PTB-XL Dataset *(Team of 3)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Research Area:** Digital Twin Technology, Biomedical Signal Processing  
