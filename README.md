@@ -1,3 +1,4 @@
+
 I am a Software Engineer specializing in Artificial Intelligence and Machine Learning, with hands-on experience in developing practical, real-world AI and ML solutions. I am passionate about leveraging data-driven approaches to solve complex problems and focus on areas including Machine Learning, Deep Learning, Artificial Intelligence, and Data Science. I actively work on projects that deliver impactful, real-world applications while continuously expanding my knowledge and skills in the field.
 
 ## Skills & Technologies
@@ -155,6 +156,6 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🔹 Status:** Academic Research Paper  
 
 <br>
-
+***
 
 
