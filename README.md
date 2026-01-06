@@ -215,5 +215,13 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Active contributor on **Kaggle**, participating in competitions across **ML, NLP, medical imaging, and audio classification**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Continuously learning and refining skills in **data science, AI, and real-world ML applications**.  
 ***
+## 📬 Contact & Links
+
+<br>
+
+- ✉️ **Email:** [engr.sabakhan123@gmail.com](mailto:engr.sabakhan123@gmail.com)  
+- 🔗 **LinkedIn:** To be confirmed  
+- 🐙 **GitHub:** [github.com/engrsabakhan](https://github.com/engrsabakhan)  
+- 🏆 **Kaggle:** [kaggle.com/sabakhanzadi](https://www.kaggle.com/sabakhanzadi)  
 
 
