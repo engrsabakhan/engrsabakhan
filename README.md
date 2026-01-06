@@ -3,6 +3,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 ## Skills & Technologies
 <br>
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=purple)
 <img width="65" height="100" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/7f89ba77-4784-4052-bd4e-d96bfdaedb18" />
