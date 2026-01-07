@@ -4,7 +4,6 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 ***
 
 ## Skills & Technologies
----
 
 <br>
 
@@ -52,10 +51,10 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 <br>
 ***
 
-### Projects
----
+## Projects
 
 <br>
+
 
 
 🔹<b> Automated Essay Scoring 2.0</b>
