@@ -89,9 +89,12 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 <b>Outcome:</b> Provided useful insights into internet behavior and its impact on children.<br>
 🔗 GitHub: https://github.com/engrsabakhan/Child-Mind-Institute-Problematic-Internet--used
 ***
-### 💼 Professional Experience & Internships
+
+##  Professional Experience & Internships
+
 
 <br>
+ Professional Experience & Internships
 🤖<b> Machine Learning Internship</b> (<b>Ezitech Institute Rawalpindi</b> June 2025 – August 2025 )<br>
 
 🔹 Role: Machine Learning Intern
