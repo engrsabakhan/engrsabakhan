@@ -225,6 +225,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 - ✉️ **Email:** [engr.sabakhan123@gmail.com](mailto:engr.sabakhan123@gmail.com)  
 - 🔗 **LinkedIn:** To be confirmed  
 - 🐙 **GitHub:** [github.com/engrsabakhan](https://github.com/engrsabakhan)  
-- 🏆 **Kaggle:** [kaggle.com/sabakhanzadi](https://www.kaggle.com/sabakhanzadi)  
+- 🏆 **Kaggle:** [kaggle.com/sabakhanzadi](https://www.kaggle.com/sabakhanzadi)
+- ***
 
 
