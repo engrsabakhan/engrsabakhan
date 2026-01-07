@@ -4,6 +4,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 ***
 
 ## Skills & Technologies
+---
 
 <br>
 
@@ -53,6 +54,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 ### Projects
 ---
+
 <br>
 
 
