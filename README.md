@@ -51,7 +51,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 ***
 
 ### Projects
-
+---
 <br>
 
 
@@ -226,6 +226,7 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 - 🔗 **LinkedIn:** To be confirmed  
 - 🐙 **GitHub:** [github.com/engrsabakhan](https://github.com/engrsabakhan)  
 - 🏆 **Kaggle:** [kaggle.com/sabakhanzadi](https://www.kaggle.com/sabakhanzadi)
-- ***
+  
+  ***
 
 
