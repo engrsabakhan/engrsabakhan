@@ -94,7 +94,6 @@ I am a Software Engineer specializing in Artificial Intelligence and Machine Lea
 
 
 <br>
- Professional Experience & Internships
 🤖<b> Machine Learning Internship</b> (<b>Ezitech Institute Rawalpindi</b> June 2025 – August 2025 )<br>
 
 🔹 Role: Machine Learning Intern
